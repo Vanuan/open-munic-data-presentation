@@ -14,7 +14,7 @@
 
 ## UX сайтов местных органов
 
-![UX](/ux.png)
+![UX](/open-munic-data-presentation/ux.png)
 
 Сложная навигация
 
@@ -22,7 +22,7 @@
 
 ## UX сайтов местных органов
 
-![UX2](/ux2.png)
+![UX2](/open-munic-data-presentation/ux2.png)
 
 Скучно!
 
@@ -30,7 +30,7 @@
 
 ## Неполнота данных
 
-![Data absent](/data_absent.png)
+![Data absent](/open-munic-data-presentation/data_absent.png)
 
 Нарушение законодательства
 
@@ -111,7 +111,7 @@
 
 ## Как мой проект решает проблему (html)
 
-![Demo](/demo.png)
+![Demo](/open-munic-data-presentation/demo.png)
 
 ---
 
