@@ -122,8 +122,9 @@
 
 ---
 
-## Команда
+## Ссылки
 
-* Ivan Yani https://github.com/Vanuan/
-* Open Source https://github.com/Maidan-hackaton
+* Эта презентация https://github.com/Vanuan/open-munic-data-presentation
+* Rails-приложение https://github.com/Vanuan/municipal-legislators
+* Python-скраперы https://github.com/Maidan-hackaton/state-administration/tree/master/scrapers
 
